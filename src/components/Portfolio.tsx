@@ -3,24 +3,37 @@ import { ExternalLink } from 'lucide-react';
 
 export function Portfolio() {
   const projects = [
+
+
     {
-      title: 'E-Commerce Platform',
+      title: 'Walmart Clone',
       description: 'A full-featured online store built with React and Node.js',
-      image: 'https://images.unsplash.com/photo-1661956602116-aa6865609028?auto=format&fit=crop&q=80&w=800',
-      tags: ['React', 'Node.js', 'MongoDB']
+      image: '/MearnStackWalmart.png',
+      tags: ['React', 'Node.js', 'MongoDB','TailwendCSS']
     },
     {
-      title: 'Marketing Dashboard',
-      description: 'Analytics dashboard for digital marketing campaigns',
-      image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800',
-      tags: ['Vue.js', 'Firebase', 'Analytics']
+      title: 'Movix',
+      description: 'ReactJs Movies Website Front end Development',
+      image: '/FrontEndReactJS.png',
+      tags: ['React', 'Node.js','TailwendCSS']
+    },
+    {
+      title: 'landing Page',
+      description: 'HTML5 & TailwendCSS Landing Page',
+      image: '/landingPage_HTML5 &TailwendCSS.png',
+      tags: ['HTML5','TailwendCSS']
+    },    {
+      title: 'Uber Store',
+      description: 'WordPress Elementor - Flatsome Theme Builder',
+      image: '/uberStore.png',
+      tags: ['WordPress', 'Elementor', 'Flatsome Theme Builder']
     },
     {
       title: 'Social Media Campaign',
       description: 'Successful marketing campaign for a retail brand',
       image: 'https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=800',
       tags: ['Marketing', 'Social Media', 'Strategy']
-    }
+    },
   ];
 
   return (
