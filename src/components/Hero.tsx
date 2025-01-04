@@ -1,5 +1,5 @@
 import React from 'react';
-import Hero from 'src/imgs/hero.jpg';
+// import Hero from 'src/imgs/hero.jpg';
 import { Code, Megaphone, ArrowRight } from 'lucide-react';
 
 export function Hero() {
@@ -42,7 +42,7 @@ export function Hero() {
             <div className="relative">
               <div className="absolute -inset-4 bg-indigo-100 rounded-full blur-lg opacity-75"></div>
               <img
-                src={Hero}
+                src='/hero.jpg'
                 alt="Eslam Gamal"
                 className="relative w-64 h-64 object-cover rounded-full border-4 border-white shadow-lg"
               />
