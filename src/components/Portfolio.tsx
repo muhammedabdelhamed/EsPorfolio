@@ -9,30 +9,35 @@ export function Portfolio() {
       title: 'Walmart Clone',
       description: 'A full-featured online store built with React and Node.js',
       image: '/MearnStackWalmart.png',
-      tags: ['React', 'Node.js', 'MongoDB','TailwendCSS']
+      tags: ['React', 'Node.js', 'MongoDB','TailwendCSS'],
+      link:'https://graduation-project-walmart-clone.vercel.app/'
     },
     {
       title: 'Movix',
       description: 'ReactJs Movies Website Front end Development',
       image: '/FrontEndReactJS.png',
-      tags: ['React', 'Node.js','TailwendCSS']
+      tags: ['React', 'Node.js','TailwendCSS'],
+      link:'https://movix-clone-three.vercel.app/'
     },
     {
       title: 'landing Page',
       description: 'HTML5 & TailwendCSS Landing Page',
       image: '/landingPage_HTML5 &TailwendCSS.png',
-      tags: ['HTML5','TailwendCSS']
+      tags: ['HTML5','TailwendCSS'],
+      link:''
     },    {
       title: 'Uber Store',
       description: 'WordPress Elementor - Flatsome Theme Builder',
       image: '/uberStore.png',
-      tags: ['WordPress', 'Elementor', 'Flatsome Theme Builder']
+      tags: ['WordPress', 'Elementor', 'Flatsome Theme Builder'],
+      link:''
     },
     {
       title: 'Social Media Campaign',
       description: 'Successful marketing campaign for a retail brand',
       image: 'https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=800',
-      tags: ['Marketing', 'Social Media', 'Strategy']
+      tags: ['Marketing', 'Social Media', 'Strategy'],
+      link:''
     },
   ];
 
@@ -68,7 +73,7 @@ export function Portfolio() {
                   ))}
                 </div>
                 <a 
-                  href="#" 
+                  href={project.link} 
                   className="inline-flex items-center text-indigo-600 hover:text-indigo-700"
                 >
                   View Project <ExternalLink className="ml-2 h-4 w-4" />
