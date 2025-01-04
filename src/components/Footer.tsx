@@ -12,15 +12,15 @@ export function Footer() {
           </div>
           
           <div className="flex space-x-6">
-            <a href="#" className="text-gray-400 hover:text-white transition">
+            {/* <a href="#" className="text-gray-400 hover:text-white transition">
               <Github className="h-6 w-6" />
-            </a>
-            <a href="#" className="text-gray-400 hover:text-white transition">
+            </a> */}
+            <a href="https://www.linkedin.com/in/eslamgamalali" className="text-gray-400 hover:text-white transition">
               <Linkedin className="h-6 w-6" />
             </a>
-            <a href="#" className="text-gray-400 hover:text-white transition">
+            {/* <a href="#" className="text-gray-400 hover:text-white transition">
               <Twitter className="h-6 w-6" />
-            </a>
+            </a> */}
           </div>
         </div>
         
