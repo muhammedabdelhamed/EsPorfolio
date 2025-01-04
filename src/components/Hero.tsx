@@ -41,7 +41,7 @@ export function Hero() {
             <div className="relative">
               <div className="absolute -inset-4 bg-indigo-100 rounded-full blur-lg opacity-75"></div>
               <img
-                src="../imgs/333060005_1313504925874341_420892811172032389_n.jpg"
+                src="../imgs/hero.jpg"
                 alt="Professional headshot"
                 className="relative w-64 h-64 object-cover rounded-full border-4 border-white shadow-lg"
               />
