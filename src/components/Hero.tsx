@@ -1,5 +1,5 @@
 import React from 'react';
-import Hero from '../imgs/hero.jpg';
+import Hero from 'src/imgs/hero.jpg';
 import { Code, Megaphone, ArrowRight } from 'lucide-react';
 
 export function Hero() {
