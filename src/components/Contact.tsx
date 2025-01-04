@@ -18,7 +18,7 @@ export function Contact() {
                 <Mail className="h-6 w-6 text-indigo-600 mt-1" />
                 <div className="ml-4">
                   <p className="font-medium">Email</p>
-                  <p className="text-gray-600">hello@example.com</p>
+                  <p className="text-gray-600">eslamgamal3280@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-start">
