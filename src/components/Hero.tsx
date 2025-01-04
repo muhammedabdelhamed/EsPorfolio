@@ -43,7 +43,7 @@ export function Hero() {
               <div className="absolute -inset-4 bg-indigo-100 rounded-full blur-lg opacity-75"></div>
               <img
                 src={Hero}
-                alt="Professional headshot"
+                alt="Eslam Gamal"
                 className="relative w-64 h-64 object-cover rounded-full border-4 border-white shadow-lg"
               />
             </div>
