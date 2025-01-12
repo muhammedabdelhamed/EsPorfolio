@@ -3,8 +3,35 @@ import { ExternalLink } from 'lucide-react';
 
 export function Portfolio() {
   const projects = [
-
-
+    
+    {
+      title: 'ICEJCOM',
+      description: 'ICEJCOM Communication Agency',
+      image: '/icejcom.png',
+      tags: ['Wordpress ', 'Elementor Pro'],
+      link:'https://icejcom.com/'
+    },
+    {
+      title: 'TepTac',
+      description: 'TepTac Services',
+      image: '/TepTac Services.png',
+      tags: ['Wordpress ', 'Elementor Pro'],
+      link:'https://teptac.com/'
+    },
+    {
+      title: 'Ebdaa',
+      description: 'Ebdaa for Interior Designs',
+      image: '/ebdaa.png',
+      tags: ['Wordpress ', 'Elementor Pro'],
+      link:'https://ebdaa.io/'
+    },
+    {
+      title: 'Walmart Dashbord',
+      description: 'Walmart Dashbord Using Angular.js',
+      image: '/walmart-dashbord-using-angular-js-vercel.png',
+      tags: ['Angular.js', 'Node.js', 'MongoDB','TailwendCSS'],
+      link:'https://walmart-dashbord-using-angular-js.vercel.app/login'
+    },
     {
       title: 'Walmart Clone',
       description: 'A full-featured online store built with React and Node.js',
@@ -38,7 +65,7 @@ export function Portfolio() {
       image: 'https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=800',
       tags: ['Marketing', 'Social Media', 'Strategy'],
       link:''
-    },
+    }
   ];
 
   return (
