@@ -9,11 +9,6 @@ export function Services() {
       description: 'Custom websites and web applications built with modern technologies and best practices.'
     },
     {
-      icon: <Layout className="h-8 w-8 text-indigo-600" />,
-      title: 'UI/UX Design',
-      description: 'User-centered design that creates engaging and intuitive digital experiences.'
-    },
-    {
       icon: <Search className="h-8 w-8 text-indigo-600" />,
       title: 'SEO Optimization',
       description: 'Strategic optimization to improve search rankings and increase organic traffic.'
