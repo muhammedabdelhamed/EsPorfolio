@@ -26,22 +26,15 @@ export function Portfolio() {
       link:'https://ebdaa.io/'
     },
     {
-      title: 'Walmart Dashbord',
-      description: 'Walmart Dashbord Using Angular.js',
-      image: '/walmart-dashbord-using-angular-js-vercel.png',
-      tags: ['Wordpress ', 'Elementor Pro'],
-      link:'https://walmart-dashbord-using-angular-js.vercel.app/login'
-    },
-    {
       title: 'Walmart Clone',
-      description: 'A full-featured online store built with React and Node.js',
+      description: 'A full-featured online store',
       image: '/MearnStackWalmart.png',
       tags: ['Wordpress ', 'Elementor Pro'],
       link:'https://graduation-project-walmart-clone.vercel.app/'
     },
     {
       title: 'Movix',
-      description: 'ReactJs Movies Website Front end Development',
+      description: 'Movies Website Front end Development',
       image: '/FrontEndReactJS.png',
       tags: ['Wordpress ', 'Elementor Pro'],
       link:'https://movix-clone-three.vercel.app/'
