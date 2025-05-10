@@ -32,7 +32,7 @@ export function Services() {
           <h2 className="text-3xl font-bold text-gray-900 mb-4">Services</h2>
           <p className="text-xl text-gray-600">Comprehensive digital solutions for your business</p>
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {services.map((service, index) => (
             <div 
               key={index}
