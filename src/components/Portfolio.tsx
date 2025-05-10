@@ -5,32 +5,32 @@ export function Portfolio() {
   const projects = [
     
     {
-      title: 'ICEJCOM',
-      description: 'ICEJCOM Communication Agency',
-      image: '/icejcom.png',
+      title: 'YAZ Studio',
+      description: 'Marketing Agency',
+      image: '/YazStudio.png',
       tags: ['Wordpress ', 'Elementor Pro'],
-      link:'https://icejcom.com/'
+      link:'https://yazstudio21.com/'
     },
     {
-      title: 'TepTac',
-      description: 'TepTac Services',
-      image: '/TepTac Services.png',
+      title: 'Drippin EG',
+      description: 'E Commerce Store',
+      image: '/DrippinEg.png',
       tags: ['Wordpress ', 'Elementor Pro'],
-      link:'https://teptac.com/'
+      link:'https://drippin-eg.com/'
     },
     {
-      title: 'Ebdaa',
-      description: 'Ebdaa for Interior Designs',
-      image: '/ebdaa.png',
+      title: 'Golden Trade',
+      description: 'Crypto Trading Site',
+      image: '/goldenTrade.png',
       tags: ['Wordpress ', 'Elementor Pro'],
-      link:'https://ebdaa.io/'
+      link:'https://goldentrade1.com/'
     },
     {
-      title: 'Walmart Clone',
-      description: 'A full-featured online store',
-      image: '/MearnStackWalmart.png',
+      title: 'The Brave Unit',
+      description: 'Security Company',
+      image: '\Brave.jpg',
       tags: ['Wordpress ', 'Elementor Pro'],
-      link:'https://graduation-project-walmart-clone.vercel.app/'
+      link:'https://thebraveunit.com/'
     },
     {
       title: 'Movix',
@@ -38,26 +38,6 @@ export function Portfolio() {
       image: '/FrontEndReactJS.png',
       tags: ['Wordpress ', 'Elementor Pro'],
       link:'https://movix-clone-three.vercel.app/'
-    },
-    {
-      title: 'landing Page',
-      description: 'HTML5 & TailwendCSS Landing Page',
-      image: '/landingPage_HTML5 &TailwendCSS.png',
-      tags: ['HTML5','TailwendCSS'],
-      link:''
-    },    {
-      title: 'Uber Store',
-      description: 'WordPress Elementor - Flatsome Theme Builder',
-      image: '/uberStore.png',
-      tags: ['WordPress', 'Elementor', 'Flatsome Theme Builder'],
-      link:''
-    },
-    {
-      title: 'Social Media Campaign',
-      description: 'Successful marketing campaign for a retail brand',
-      image: 'https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=800',
-      tags: ['Marketing', 'Social Media', 'Strategy'],
-      link:''
     }
   ];
 

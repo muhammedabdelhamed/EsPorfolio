@@ -22,11 +22,6 @@ export function Services() {
       icon: <Share2 className="h-8 w-8 text-indigo-600" />,
       title: 'Social Media',
       description: 'Strategic social media management to build and engage your audience.'
-    },
-    {
-      icon: <Database className="h-8 w-8 text-indigo-600" />,
-      title: 'Analytics',
-      description: 'Data-driven insights to optimize your digital presence and marketing efforts.'
     }
   ];
 
