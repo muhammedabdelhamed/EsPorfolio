@@ -64,7 +64,7 @@ export function Portfolio() {
       title: 'Golden Trade',
       description: 'Crypto Trading Site',
       image: '/goldenTrade.png',
-      tags: ['Wordpress ', 'Elementor Pro'],
+      tags: ['NextJs'],
       link:'https://goldentrade1.com/'
     },
     {
@@ -78,7 +78,7 @@ export function Portfolio() {
       title: 'Movix',
       description: 'Movies Website Front end Development',
       image: '/FrontEndReactJS.png',
-      tags: ['Wordpress ', 'Elementor Pro'],
+      tags: ['ReactJs ', 'API'],
       link:'https://movix-clone-three.vercel.app/'
     }
   ];
