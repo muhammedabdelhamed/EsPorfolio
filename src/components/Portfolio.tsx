@@ -5,6 +5,48 @@ export function Portfolio() {
   const projects = [
     
     {
+      title: 'Raqamia',
+      description: 'Marketing Agency',
+      image: '/raqamia.png',
+      tags: ['Wordpress ', 'SEO', 'Elementor Pro'],
+      link:'https://raqamia.io/'
+    },
+    {
+      title: 'Lotus Trading',
+      description: 'This is a brand that specializes in selling cosmetics.',
+      image: '/lotus.png',
+      tags: ['Wordpress ', 'Elementor Pro'],
+      link:'https://lotustrading.ae/'
+    },
+    {
+      title: 'Jinju Secrets',
+      description: 'This is a brand that specializes in selling cosmetics.',
+      image: '/jinju.png',
+      tags: ['Wordpress ', 'Elementor Pro'],
+      link:'https://jinjusecrets.com/'
+    },
+    {
+      title: 'Dalmié',
+      description: 'This is a brand that specializes in selling cosmetics.',
+      image: '/dalmie.png',
+      tags: ['Wordpress ', 'Elementor Pro'],
+      link:'https://dalmié.com/'
+    },
+    {
+      title: 'Musccollection',
+      description: 'This is a brand specialized in selling perfumes.',
+      image: '/10.png',
+      tags: ['Wordpress ', 'Elementor Pro'],
+      link:'https://musccollection.com/'
+    },
+    {
+      title: 'Alrifai Center',
+      description: 'ALRIFAI CENTER FOR RESEARCH AND STUDIES',
+      image: '/11.png',
+      tags: ['Wordpress ', 'Elementor Pro'],
+      link:'https://alrifaicrs.org/https://yazstudio21.com/'
+    },
+    {
       title: 'YAZ Studio',
       description: 'Marketing Agency',
       image: '/YazStudio.png',
